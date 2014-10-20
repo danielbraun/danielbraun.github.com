@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I manage Cordova/Phonegap plugin dependencies"
+title:  "People Are Nice"
 ---
 I'm starting to think more and more that most people are fundamentally nice.  You
 can even approach someone, introduce yourself and strike up a conversation.  I
